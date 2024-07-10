@@ -11,7 +11,7 @@ const storage = new Storage();
 const speechClient = new speech.SpeechClient();
 
 // Azure OpenAI credentials
-const azureApiKey = 'b3e819600fbe4981be34ef2aa79943e2';
+const azureApiKey = '';
 const azureEndpoint = 'https://ik-oai-eastus-2.openai.azure.com/';
 const azureDeploymentName = 'gpt-4o';
 
